@@ -1,4 +1,4 @@
-#calcular horas trabalhadas
+   #calcular horas trabalhadas
 
 print("Horas Trabalhadas!")
 T = float(input("Quanto você ganha por hora: "))
